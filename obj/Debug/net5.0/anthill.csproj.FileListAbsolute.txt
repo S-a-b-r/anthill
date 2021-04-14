@@ -1,0 +1,16 @@
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.csprojAssemblyReference.cache
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.AssemblyInfoInputs.cache
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.AssemblyInfo.cs
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.csproj.CoreCompileInputs.cache
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.exe
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.deps.json
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.runtimeconfig.json
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.runtimeconfig.dev.json
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.dll
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\ref\anthill.dll
+D:\Univer\Alg\DotNet\anthill\bin\Debug\net5.0\anthill.pdb
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.dll
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\ref\anthill.dll
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.pdb
+D:\Univer\Alg\DotNet\anthill\obj\Debug\net5.0\anthill.genruntimeconfig.cache
